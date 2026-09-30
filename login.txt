@@ -1,2 +1,5 @@
 Login validation demo
 Username and password fields added
+Email format validation enabled
+Password length validation enabled
+Login page feature
