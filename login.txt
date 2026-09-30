@@ -1,1 +1,2 @@
 Login validation demo
+Username and password fields added
